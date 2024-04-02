@@ -24,8 +24,3 @@ const binarySearch = (input: number[], target: number): number | null => {
 
   return null;
 };
-
-// console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 8)); // to be 7
-// console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 1)); // to be 0
-const collection = Array.from(Array(100_000_000).keys());
-console.log(binarySearch(collection, 2339993));
