@@ -1,0 +1,16 @@
+{
+  "name": "algorithms.ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "scripts": {
+    "binary-search": "ts-node ./1-binary-search/index.ts"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0"
+  }
+}
