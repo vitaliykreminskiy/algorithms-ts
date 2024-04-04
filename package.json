@@ -8,7 +8,8 @@
     "typescript": "^5.4.3"
   },
   "scripts": {
-    "binary-search": "ts-node ./1-binary-search/index.ts"
+    "binary-search": "ts-node ./1-binary-search/index.ts",
+    "insertion-sort": "ts-node ./2-insertion-sort/index.ts"
   },
   "devDependencies": {
     "@types/typescript": "^2.0.0"
