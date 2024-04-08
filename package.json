@@ -9,7 +9,9 @@
   },
   "scripts": {
     "binary-search": "ts-node ./1-binary-search/index.ts",
-    "insertion-sort": "ts-node ./2-insertion-sort/index.ts"
+    "insertion-sort": "ts-node ./2-insertion-sort/index.ts",
+    "linked-list": "ts-node ./3-linked-list/index.ts",
+    "recursive-adding": "ts-node ./4-recursive-adding/index.ts"
   },
   "devDependencies": {
     "@types/typescript": "^2.0.0"
